@@ -163,5 +163,19 @@ img {
         text-align: center;
     }
 
+     #parallel {
+        transform: skew( 0deg);
+    }
+
+
+
+}
+
+@media only screen and (max-width: 480px) {
+
+    #parallel {
+        transform: skew( 0deg);
+    }
+
 
 }
